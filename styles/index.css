@@ -22,17 +22,13 @@ li {
 
 .header {
   font-size: 1.5rem;
-  font-family: Arial, Helvetica, sans-serif sans-serif;
+  font-family: "Roboto Slab", Helvetica, sans-serif sans-serif;
 
   margin-block: 4em;
   text-align: center;
 }
 
 .header h1 {
-  font-family: 'Roboto', sans-serif;
-}
-
-.header a {
   font-family: 'Space Mono', sans-serif;
 }
 
